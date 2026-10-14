@@ -1,7 +1,7 @@
 // ---- Edit these ----
-const REPO = "OWNER/REPO";
+const REPO = "CyberNamous/guide_host";
 const BRANCH = "main";
-const FILE_PATH = "files/Spin-the-Wheel-Host-Guide-v1_0-1.docx";
+const FILE_PATH = "files/Guide-Host.docx";
 const APP_NAME = "Host Guide";
 const TAGLINE = "How to set up and run the Spin the Wheel as host.";
 // --------------------
